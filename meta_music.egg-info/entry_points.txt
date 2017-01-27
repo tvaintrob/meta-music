@@ -1,0 +1,3 @@
+[console_scripts]
+meta = meta_music.__main__:main
+

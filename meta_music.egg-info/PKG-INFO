@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: meta-music
+Version: 1
+Summary: search metadata for music files
+Home-page: UNKNOWN
+Author: Tal Vintrob
+Author-email: UNKNOWN
+License: MIT
+Description: search metadata by fingerprinting the music file
+Keywords: meta,music,fingerprint
+Platform: UNKNOWN

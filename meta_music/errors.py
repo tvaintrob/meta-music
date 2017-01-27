@@ -1,0 +1,3 @@
+
+class LastFMError(Exception):
+    pass

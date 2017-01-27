@@ -1,0 +1,13 @@
+setup.py
+meta_music/__init__.py
+meta_music/__main__.py
+meta_music/cli.py
+meta_music/errors.py
+meta_music/last_fm.py
+meta_music/tag_mp3.py
+meta_music.egg-info/PKG-INFO
+meta_music.egg-info/SOURCES.txt
+meta_music.egg-info/dependency_links.txt
+meta_music.egg-info/entry_points.txt
+meta_music.egg-info/requires.txt
+meta_music.egg-info/top_level.txt
