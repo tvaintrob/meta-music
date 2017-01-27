@@ -1,7 +1,7 @@
 # meta-music
 
 ## Install
-```bash
+```
 git clone https://github.com/tvaintrob/meta-music.git
 cd meta-music
 python setup.py install
